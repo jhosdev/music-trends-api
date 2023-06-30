@@ -1,0 +1,6 @@
+Flask==2.3.2
+python-dotenv==0.18.0
+Flask-SQLAlchemy==3.0.5
+pandas==2.0.3
+spotipy==2.23.0
+numpy==1.25.0
