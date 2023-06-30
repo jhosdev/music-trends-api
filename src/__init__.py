@@ -1,3 +1,4 @@
+#__init__.py
 from flask import Flask
 import os
 from src.auth import auth
